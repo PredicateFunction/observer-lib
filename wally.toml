@@ -5,4 +5,4 @@ registry = "https://github.com/UpliftGames/wally-index"
 version = "0.1.1"
 realm = "shared"
 author = "PredicateFunction"
-include = ["wally.toml", "lib/", "lib"]
+include = ["wally.toml", "lib/", "lib", "default.project.json"]
