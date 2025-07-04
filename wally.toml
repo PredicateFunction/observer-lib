@@ -2,7 +2,8 @@
 name = "predicatefunction/observer-lib"
 description = "Observer patterns, inspired by sleitnick's"
 registry = "https://github.com/UpliftGames/wally-index"
-version = "0.1.2"
+version = "0.1.3"
 realm = "shared"
 author = "PredicateFunction"
+exclude = ["**"]
 include = ["wally.toml", "lib/", "lib", "default.project.json"]
