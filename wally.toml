@@ -1,8 +1,15 @@
 [package]
 name = "predicatefunction/observer-lib"
 description = "Observer patterns, inspired by sleitnick's"
-registry = "https://github.com/UpliftGames/wally-index"
-version = "0.1.5"
-realm = "shared"
+version = "0.1.6"
 author = "PredicateFunction"
-include = ["wally.toml", "lib/", "lib", "default.project.json"]
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+include = [
+  "wally.toml",
+  "default.project.json",
+  "lib",
+  "lib/**/*.lua"
+]
