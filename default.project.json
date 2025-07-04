@@ -1,6 +1,6 @@
 {
-	"name": "Observers Library",
+	"name": "observer-lib",
 	"tree": {
-		"$path": "lib"
+		"$path": "lib/observer-lib"
 	}
 }
